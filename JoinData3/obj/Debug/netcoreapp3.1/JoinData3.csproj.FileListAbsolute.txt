@@ -1,0 +1,13 @@
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\bin\Debug\netcoreapp3.1\JoinData3.exe
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\bin\Debug\netcoreapp3.1\JoinData3.deps.json
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\bin\Debug\netcoreapp3.1\JoinData3.runtimeconfig.json
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\bin\Debug\netcoreapp3.1\JoinData3.runtimeconfig.dev.json
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\bin\Debug\netcoreapp3.1\JoinData3.dll
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\bin\Debug\netcoreapp3.1\JoinData3.pdb
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\obj\Debug\netcoreapp3.1\JoinData3.csprojAssemblyReference.cache
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\obj\Debug\netcoreapp3.1\JoinData3.AssemblyInfoInputs.cache
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\obj\Debug\netcoreapp3.1\JoinData3.AssemblyInfo.cs
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\obj\Debug\netcoreapp3.1\JoinData3.csproj.CoreCompileInputs.cache
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\obj\Debug\netcoreapp3.1\JoinData3.dll
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\obj\Debug\netcoreapp3.1\JoinData3.pdb
+C:\Users\jms_s\source\repos\JoinData3\JoinData3\obj\Debug\netcoreapp3.1\JoinData3.genruntimeconfig.cache
